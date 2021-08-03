@@ -1,0 +1,81 @@
+.Navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   margin-top: -27px;
+    /* border: 1px solid red;  */
+}
+
+.logoImage{
+    width:5px;
+    height: 5px;
+}
+
+.searchBar {
+    width: 340px;
+    height: 30px;
+    padding-top: 4px;
+    margin-left: 320px;
+    border: none;
+    border-radius: 4px;
+}
+
+.inputField {
+    height: 27px;
+    width: 300px;
+    border: none;
+    border-radius: 4px;
+
+}
+
+.btn {
+    height: 27.9px;
+    width: 32px;
+    background-color: white;
+    border-radius: 4px;
+
+}
+
+.navElements {
+    /* border: 1px solid blue; */
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+
+}
+
+
+.navElements ul {
+    display: flex;
+    justify-content: start;
+    width: 500px;
+    color: grey;
+}
+
+.navElements ul li {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+
+}
+
+.navElements ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.line {
+
+    border: 1px solid white;
+    height: 10%;
+    width: 5%;
+    margin-top: 1.5rem;
+
+}
+
+.cartBtn {
+    width: 100px;
+    height: 30px;
+
+}

@@ -1,0 +1,245 @@
+
+.trendingProducts{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .images{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 30px;
+  
+    
+  }
+  .trend1{
+    height: 355px;
+    width: 300px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 350px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/skims-loungewear.jpg);
+  
+  }
+  
+  .trend2{
+    height: 355px;
+    width: 300px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 350px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/skims-bodysuit1.jpg);
+  
+  }
+  
+  .trend3{
+    height: 355px;
+    width: 300px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 350px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/skims-bodysuit.jpg);
+  
+  }
+  
+  .trend4{
+    height: 355px;
+    width: 300px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 350px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/skims-bra.jpg);
+  
+  }
+  
+  .secondrow{
+    height: 720px;
+    width: 1900px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 1900px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/cotton\ collection.jpg);
+   
+  }
+  
+  .cottenContent{
+    margin-top: 550px;
+    text-align: left;
+    margin-left: 30px;
+    color: white;
+    font-size: 14px;
+  }
+  
+  .thirdrow{
+    height: 790px;
+    width: 1900px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 1900px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/lougewear.jpg);
+  
+  
+  }
+  
+  .loungeContent{
+    margin-top: 599px;
+    text-align: left;
+    margin-left: 30px;
+    color: white;
+    font-size: 14px;
+  }
+  
+  
+  .bras{
+    height: 390px;
+    width: 350px;
+    margin-left: 80px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 390px;
+     /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/bras.jpg);
+  
+  }
+  
+  .underwear{
+    height: 390px;
+    width: 350px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 390px;
+     /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/underwear.jpg);
+  
+  }
+  
+  
+  .pajamas{
+    height: 390px;
+    width: 350px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 390px;
+     /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/pajamas.jpg);
+  
+  }
+  
+  .bodysuit{
+    height: 390px;
+    width: 350px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 390px;
+     /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/bodysuit.jpg);
+  
+  }
+  
+  .fourthrow{
+    height: 750px;
+    width: 1900px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 1900px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/kids.jpg);
+    margin-top: 30px;
+  
+  }
+  
+  .kidsContent{
+    margin-top: 550px;
+    text-align: left;
+    margin-left: 30px;
+    color: white;
+  }
+  
+  .btn-btn{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(245, 236, 224);
+    border: 0ch;
+    color: rgb(85, 67, 67);
+  }
+  
+  .blue{
+    height: 390px;
+    width: 350px;
+    margin-left: 320px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 390px;
+     /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/img4.jpg);
+    margin-bottom: 50px;
+  
+  
+  }
+  
+  .blue1{
+    height: 390px;
+    width: 350px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 390px;
+     /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/img1.jpg);
+    margin-bottom: 50px;
+  
+  
+  }
+  
+  .blue2{
+    height: 390px;
+    width: 350px;
+    margin-left: 120px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 390px;
+     /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-image: url(../../Assets/Images/img3.jpg);
+    margin-bottom: 50px;
+  
+  }
+  
+  
+  .aboutText{
+    color: rgb(114, 80, 80);
+    font-weight: 300;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-style: italic;
+  }
+  
